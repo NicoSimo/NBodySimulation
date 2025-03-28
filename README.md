@@ -1,5 +1,7 @@
 # N-BODY SIMULATION
 
+![Demo](NBody.gif)
+
 ## About this project 
 
 N-Body Simulation for the CMDA4634 class at Virginia TECH during the Fall '24 semester.
